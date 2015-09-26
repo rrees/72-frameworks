@@ -1,0 +1,11 @@
+# Site settings
+title: 72 Frameworks
+description: > # this means to ignore newlines until "baseurl:"
+  An attempt to document the evolving world of minor Javascript frameworks and what their benefits and offers are.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: rrees
+github_username:  rrees
+
+# Build settings
+markdown: kramdown

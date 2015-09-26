@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RiotJS"
+date:   2015-09-26 19:26:07
+categories: webcomponents
+---
+# RiotJS
+
+[Riot](http://riotjs.com/) is quite heavily influenced by the concept of the web components and things like Polymer but aims to be a more lightweight take on the same concept.
